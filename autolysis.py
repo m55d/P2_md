@@ -424,8 +424,3 @@ if __name__ == "__main__":
     
     input_file = sys.argv[1]
     main(input_file)
-
-
-
-
-
