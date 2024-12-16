@@ -1,4 +1,4 @@
-# P2_md
+### P2_md
 # Automated Data Analysis and Visualization Leveraging GPT-4o-Mini for Advanced Insights
 
 ## Project Overview
